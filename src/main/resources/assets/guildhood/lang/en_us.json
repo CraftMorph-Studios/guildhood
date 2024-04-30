@@ -1,0 +1,8 @@
+{
+  "createGuild.guildMode.pve": "PVE",
+  "createGuild.guildMode.pve.info": "A guild to fight against monsters",
+  "createGuild.guildMode.pvp": "PVP",
+  "createGuild.guildMode.pvp.info": "A guild to fight against players",
+  "createGuild.guildMode.hybrid": "HYBRID",
+  "createGuild.guildMode.hybrid.info": "A guild to fight against players and monsters"
+}
